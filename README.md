@@ -1,2 +1,2 @@
 # Tensorflow_Basics
-Used Fashion MINIST dataset for training and testing
+Used Fashion MNIST dataset for training and testing
